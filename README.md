@@ -1,0 +1,2 @@
+# StyleDaisy
+Sistem Manajemen Butik
